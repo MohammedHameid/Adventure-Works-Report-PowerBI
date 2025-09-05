@@ -46,7 +46,7 @@ The report analyzes:
 ---
 
 ## 🔗 Links  
-- 📂 GitHub Repo: [This Repository](https://github.com/MohammedHameid/AdventureWorks_PowerBI)  
+- 📂 GitHub Repo: [This Repository](https://github.com/MohammedHameid/Adventure-Works-Report-PowerBI)  
 - 🌐 Portfolio: [Your Portfolio Link Here]  
 - 🎓 Course Reference: Maven Analytics – Power BI  
 

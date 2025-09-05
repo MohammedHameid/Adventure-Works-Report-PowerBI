@@ -41,13 +41,13 @@ The report analyzes:
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Preview](/Preview.png)  
+![Dashboard Preview](https://github.com/MohammedHameid/Adventure-Works-Report-PowerBI/blob/main/Preview.PNG)  
 
 ---
 
 ## 🔗 Links  
 - 📂 GitHub Repo: [This Repository](https://github.com/MohammedHameid/Adventure-Works-Report-PowerBI)  
-- 🌐 Portfolio: [Your Portfolio Link Here]  
+- 🌐 Portfolio: [[Your Portfolio Link Here](https://mohammedhameid.github.io/Portfolio/)]  
 - 🎓 Course Reference: Maven Analytics – Power BI  
 
 ---

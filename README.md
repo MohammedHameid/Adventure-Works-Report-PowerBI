@@ -47,7 +47,7 @@ The report analyzes:
 
 ## 🔗 Links  
 - 📂 GitHub Repo: [Adventure Works Report in Power BI](https://github.com/MohammedHameid/Adventure-Works-Report-PowerBI)  
-- 🌐 Portfolio: [My Portfolio(https://mohammedhameid.github.io/Portfolio/)]  
+- 🌐 Portfolio: [My Portfolio](https://mohammedhameid.github.io/Portfolio/)
 - 🎓 Course Reference: Maven Analytics – Power BI  
 
 ---

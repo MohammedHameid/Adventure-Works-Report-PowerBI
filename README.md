@@ -41,7 +41,7 @@ The report analyzes:
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Preview](Preview.png)  
+![Dashboard Preview](/Preview.png)  
 
 ---
 
